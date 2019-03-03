@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+element.style {
+  display: block;
+  width: 1024px;
+  height: 705px;
+}
